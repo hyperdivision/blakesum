@@ -1,0 +1,13 @@
+{
+  "name": "blakesum",
+  "version": "0.0.0",
+  "description": "Like shasum but for blake2b",
+  "bin": {
+    "blakesum": "./blakesum.js"
+  },
+  "dependencies": {
+    "sodium-universal": "^2.0.0"
+  },
+  "license": "MIT",
+  "repository": "hyperdivision/blakesum"
+}
