@@ -1,6 +1,6 @@
 {
   "name": "blakesum",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Like shasum but for blake2b",
   "bin": {
     "blakesum": "./blakesum.js"
